@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **swift app**
 
-- 👨🏽‍💻 I’m currently learning **swift and swiftUI**
+- 👨🏽‍💻 I’m currently learning **Swift and SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://cardinaljv.github.io/Portefolio/](https://cardinaljv.github.io/Portefolio/)
 
