@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jessy</h1>
 <h3 align="center">A future iOS engineer</h3>
 
-- 🔭 I’m currently working on **swift app**
+- 🔭 I’m currently working on **Swift app**
 
 - 👨🏽‍💻 I’m currently learning **Swift and SwiftUI**
 
