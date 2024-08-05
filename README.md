@@ -55,8 +55,8 @@
 
 ## I.D.E
 
-<a href="https://developer.apple.com/xcode/" style="padding-bottom: -20px;"> 
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/xcode-12-96x96_2x.png" alt="SwiftUI" title="Xcode" width="70" height="70"/></a>
+<div style="display: flex; align-items: center"><a href="https://developer.apple.com/xcode/"> 
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/xcode-12-96x96_2x.png" alt="SwiftUI" title="Xcode" width="70" height="70"/></a></div>
 <a href="https://code.visualstudio.com">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="50" height="50"/></a>
 
