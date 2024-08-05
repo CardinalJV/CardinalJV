@@ -12,9 +12,12 @@
 - How to reach me **jessy.viranaiken@icloud.com**
 
 ----
-<h2 align="left">Main stack</h2>
+
+### Main stack
+
 <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="Logo SwiftUI" width="75" height="75"/><img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftdata-96x96_2x.png" alt="Logo SwiftData" width="75" height="75"/>
 <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-testing-96x96_2x.png" alt="Logo Swift Testing" width="75" height="75"/>
+
 ----
 
 ### Others stack
