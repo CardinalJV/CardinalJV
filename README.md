@@ -22,11 +22,11 @@
 
 ### Others stack
 
-<img src="https://skillicons.dev/icons?i=js" alt="Javascript" width="50" height="50"/><img src="https://skillicons.dev/icons?i=react" alt="React.js" width="50" height="50"/><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/><img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" alt="Javascript" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/>
 
 ----
 
 ### Development tools
 
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/><img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50"/><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
 
