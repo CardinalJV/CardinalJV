@@ -28,5 +28,5 @@
 
 ### Development tools
 
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
 
