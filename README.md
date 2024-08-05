@@ -19,8 +19,7 @@
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" href="https://developer.apple.com/xcode/swiftui/" alt="SwiftUI" title="SwiftUI" width="75" height="75"/>
 </a>
 <a href="https://developer.apple.com/xcode/swiftdata/">
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftdata-96x96_2x.png" alt="SwiftData" title="SwiftData" width="75" height="75"/>
-</a>
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftdata-96x96_2x.png" alt="SwiftData" title="SwiftData" width="75" height="75"/></a>
 <a href="https://developer.apple.com/xcode/swift-testing/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-testing-96x96_2x.png" alt="Swift Testing" title="Swift Testing" width="75" height="75"/>
 </a>
