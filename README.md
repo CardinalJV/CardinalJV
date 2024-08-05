@@ -15,8 +15,8 @@
 
 ### Main stack
 
-<img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="SwiftUI" width="75" height="75"/><img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftdata-96x96_2x.png" alt="SwiftData" width="75" height="75"/>
-<img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-testing-96x96_2x.png" alt="Swift Testing" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="SwiftUI" title="SwiftUI" width="75" height="75"/><img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftdata-96x96_2x.png" alt="SwiftData" title="SwiftData" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-testing-96x96_2x.png" alt="Swift Testing" title="Swift Testing" width="75" height="75"/>
 
 ----
 
