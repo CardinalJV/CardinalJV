@@ -43,7 +43,8 @@
 
 ### Development tools
 
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+<a href="https://github.com">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="50" height="50"/></a>
 <a href="https://www.figma.com/fr-fr/">
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="50" height="50"/></a>
 <a href="https://www.notion.so/fr-fr">
