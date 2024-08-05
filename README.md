@@ -13,7 +13,7 @@
 
 <h2 align="left">Main Stack</h2>
 <p align="left">
-![SwiftUI](https://github.com/CardinalJV/CardinalJV/raw/main/assets/logo-swift/swiftui-96x96_2x.png)
+![SwiftUI](https://github.com/CardinalJV/CardinalJV/blob/main/assets/logo-swift/swiftui-96x96_2x.png)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
