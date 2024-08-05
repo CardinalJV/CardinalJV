@@ -15,18 +15,18 @@
 
 ### Main stack
 
-<img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="Logo SwiftUI" width="75" height="75"/><img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftdata-96x96_2x.png" alt="Logo SwiftData" width="75" height="75"/>
-<img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-testing-96x96_2x.png" alt="Logo Swift Testing" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="SwiftUI" width="75" height="75"/><img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftdata-96x96_2x.png" alt="SwiftData" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-testing-96x96_2x.png" alt="Swift Testing" width="75" height="75"/>
 
 ----
 
 ### Others stack
 
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a></p>
+<img src="https://skillicons.dev/icons?i=js" alt="Javascript" width="50" height="50"/><img src="https://skillicons.dev/icons?i=react" alt="React.js" width="50" height="50"/><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/><img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/>
 
 ----
 
 ### Development tools
 
-<img src="https://skillicons.dev/icons?i=figma" alt="Logo SwiftUI" width="50" height="50"/> 
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/><img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50"/><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
 
