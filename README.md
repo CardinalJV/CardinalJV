@@ -28,5 +28,5 @@
 
 ### Development tools
 
-<img src="https://skillicons.dev/icons?i=figma" alt="Logo SwiftUI" width="75" height="75"/> 
+<img src="https://skillicons.dev/icons?i=figma" alt="Logo SwiftUI" width="50" height="50"/> 
 
