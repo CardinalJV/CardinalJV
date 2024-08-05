@@ -28,6 +28,5 @@
 
 ### Development tools
 
-[![My skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter)](https://skillicons.dev)
-<img src="https://skillicons.dev/icons?i=aws" alt="Logo SwiftUI" width="75" height="75"/><img 
+<img src="https://skillicons.dev/icons?i=figma" alt="Logo SwiftUI" width="75" height="75"/> 
 
