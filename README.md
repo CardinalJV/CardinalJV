@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jessy</h1>
 <h3 align="center">A future iOS engineer</h3>
 
-- 🔭 I’m currently working on **Swift app**
+- I’m currently working on **Swift app**
 
-- 👨🏽‍💻 I’m currently learning **Swift and SwiftUI**
+- I’m currently learning **Swift and SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://cardinaljv.github.io/Portefolio/](https://cardinaljv.github.io/Portefolio/)
+- All of my projects are available at [https://cardinaljv.github.io/Portefolio/](https://cardinaljv.github.io/Portefolio/)
 
-- 💬 Ask me about **swift, apple product, javascript, react and more**
+- Ask me about **swift, apple product, javascript, react and more**
 
-- 📫 How to reach me **jessy.viranaiken@icloud.com**
+- How to reach me **jessy.viranaiken@icloud.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Main Stack</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jessy-viranaiken-72351623b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jessy-viranaiken-72351623b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jessy-viranaiken-72351623b/" target="blank"><i class="fa-brands fa-linkedin"></i></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
