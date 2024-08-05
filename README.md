@@ -1,3 +1,5 @@
+<script src="https://kit.fontawesome.com/aefd5b075e.js" crossorigin="anonymous"></script>
+
 <h1 align="center">Hi 👋, I'm Jessy</h1>
 <h3 align="center">A future iOS engineer</h3>
 
