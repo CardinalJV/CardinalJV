@@ -27,7 +27,7 @@
 ### Others stack
 
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" alt="Javascript" title="Javascript" width="50" height="50"/></a> 
+  <img src="https://skillicons.dev/icons?i=js" alt="Javascript" title="Javascript" width="50" height="50"/></a> 
 <a href="https://fr.react.dev">
   <img src="https://skillicons.dev/icons?i=react" alt="React.js" title="React.js" width="50" height="50"/></a> 
 <a href="https://nodejs.org/fr">
@@ -43,5 +43,12 @@
 
 ### Development tools
 
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+<a href="https://www.figma.com/fr-fr/">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="50" height="50"/></a>
+<a href="https://www.notion.so/fr-fr">
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion" width="50" height="50"/></a> 
+<a href="https://www.postman.com">
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="50" height="50"/>
+</a>
 
