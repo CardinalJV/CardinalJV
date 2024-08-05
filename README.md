@@ -16,7 +16,7 @@
 ### Main stack
 
 <a href="https://developer.apple.com/xcode/swiftui/"> 
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" href="https://developer.apple.com/xcode/swiftui/" alt="SwiftUI" title="SwiftUI" width="75" height="75"/> 
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" href="https://developer.apple.com/xcode/swiftui/" alt="SwiftUI" title="SwiftUI" width="75" height="75"/>
 </a>
 <a href="https://developer.apple.com/xcode/swiftdata/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftdata-96x96_2x.png" alt="SwiftData" title="SwiftData" width="75" height="75"/></a>
