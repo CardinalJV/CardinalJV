@@ -1,5 +1,3 @@
-<script src="https://kit.fontawesome.com/aefd5b075e.js" crossorigin="anonymous"></script>
-
 <h1 align="center">Hi 👋, I'm Jessy</h1>
 <h3 align="center">A future iOS engineer</h3>
 
@@ -15,7 +13,7 @@
 
 <h2 align="left">Main Stack</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jessy-viranaiken-72351623b/" target="blank"><i class="fa-brands fa-linkedin"></i></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jessy-viranaiken-72351623b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessy-viranaiken" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
