@@ -3,7 +3,7 @@
 
 - I’m currently working on **Swift app**
 
-- I’m currently learning **Swift and SwiftUI**
+- I’m currently learning **SwiftUI, SwiftData and Swift Testing**
 
 - All of my projects are available at [https://cardinaljv.github.io/Portefolio/](https://cardinaljv.github.io/Portefolio/)
 
