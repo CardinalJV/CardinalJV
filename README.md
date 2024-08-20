@@ -7,7 +7,7 @@
 
 - All of my projects are available at [https://cardinaljv.github.io/Portefolio/](https://cardinaljv.github.io/Portefolio/)
 
-- Ask me about **swift, apple product, javascript, react and more**
+- Ask me about **swift, apple products, javascript, react and more**
 
 - How to reach me **jessy.viranaiken@icloud.com**
 
