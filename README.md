@@ -5,7 +5,7 @@
 
 - I’m currently learning **SwiftUI, SwiftData, Swift Testing and Apple SDKs**
 
-- All of my projects are available at [https://cardinaljv.github.io/Portefolio/](https://cardinaljv.github.io/Portefolio/)
+- All of my projects are available at [https://cardinaljv.github.io/Portefolio/](https://cardinaljv.github.io/Portefolio/) --
 
 - Ask me about **swift, apple products, javascript, react and more**
 
