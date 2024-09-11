@@ -9,7 +9,8 @@
 
 - Ask me about **swift, apple products, javascript, react and more**
 
-- How to reach me **jessy.viranaiken@icloud.com**
+- Mail: **jessy.viranaiken@icloud.com**
+- Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/**
 
 ----
 
