@@ -48,6 +48,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="50" height="50"/></a> 
 <a href="https://firebase.google.com">
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" width="50" height="50"/></a>
+<a href="https://fr.wordpress.org">
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" title="wordpress" width="50" height="50"/></a>
 
 ----
 
