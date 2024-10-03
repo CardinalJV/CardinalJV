@@ -50,6 +50,8 @@
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" width="50" height="50"/></a>
 <a href="https://fr.wordpress.org">
   <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" title="wordpress" width="50" height="50"/></a>
+  <a href="https://www.php.net">
+  <img src="https://skillicons.dev/icons?i=php" alt="php" title="php" width="50" height="50"/></a>
 
 ----
 
@@ -62,8 +64,7 @@
 <a href="https://www.notion.so/fr-fr">
   <img src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion" width="50" height="50"/></a> 
 <a href="https://www.postman.com">
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="50" height="50"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="50" height="50"/></a>
 
 ## I.D.E
 
