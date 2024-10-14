@@ -13,7 +13,7 @@
 
 ----
 
-### Main stack
+### My stack
 
 <a href="https://developer.apple.com/xcode/swiftui/"> 
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="SwiftUI" title="SwiftUI" width="75" height="75"/></a>
@@ -30,27 +30,6 @@
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/maps-96x96_2x.png" alt="MapKit" title="MapKit" width="50" height="50"/></a>
 <a href="https://developer.apple.com/machine-learning/core-ml/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/core-ml-128x128_2x.png" alt="CoreML" title="CoreML" width="50" height="50"/></a>
-
-----
-
-### Others stack
-
-<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=js" alt="Javascript" title="Javascript" width="50" height="50"/></a> 
-<a href="https://fr.react.dev">
-  <img src="https://skillicons.dev/icons?i=react" alt="React.js" title="React.js" width="50" height="50"/></a> 
-<a href="https://nodejs.org/fr">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="50" height="50"/></a>
-<a href="https://expressjs.com">
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" width="50" height="50"/></a> 
-<a href="https://www.mongodb.com/fr-fr">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="50" height="50"/></a> 
-<a href="https://firebase.google.com">
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" width="50" height="50"/></a>
-<a href="https://fr.wordpress.org">
-  <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" title="wordpress" width="50" height="50"/></a>
-<a href="https://www.php.net">
-  <img src="https://skillicons.dev/icons?i=php" alt="php" title="php" width="50" height="50"/></a>
 
 ----
 
