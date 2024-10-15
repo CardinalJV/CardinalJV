@@ -46,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="50" height="50"/>
   </a>
 
-<h2 align="center">Projects</h2>
+## Projects
 
 https://github.com/user-attachments/assets/1a2a1d36-c31c-400e-9fdb-0354abed53da
 
