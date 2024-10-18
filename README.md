@@ -23,7 +23,7 @@
 ## Software Development Kit
 
 <a href="https://developer.apple.com/documentation/mapkit/">
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/maps-96x96_2x.png" alt="MapKit" title="MapKit" width="50" height="50"/></a>
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/mapkit-64x64_2x.png" alt="MapKit" title="MapKit" width="50" height="50"/></a>
 <a href="https://developer.apple.com/machine-learning/core-ml/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/core-ml-128x128_2x.png" alt="CoreML" title="CoreML" width="50" height="50"/></a>
 
