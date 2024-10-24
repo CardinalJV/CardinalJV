@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jessy</h1>
 <h3 align="center"> A iOS Builder </h3>
 
-- I’m currently working on **Swift app**
+I’m currently working on **Swift app**
 
-- I’m currently learning **SwiftUI, SwiftData, Swift Testing and Apple SDKs**
+I’m currently learning **SwiftUI, SwiftData, Swift Testing and Apple SDKs**
 
-- Ask me about **swift, apple products, javascript, react and more**
+Ask me about **swift, apple products, javascript, react and more**
 
-- Reach me by Mail: **jessy.viranaiken@icloud.com**
+Reach me by Mail: **jessy.viranaiken@icloud.com**
   
-- By Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/**
+By Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/**
 
 ## My stack
 
