@@ -51,9 +51,17 @@ By Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/**
 
 <h1 align="center">Projects</h1>
 
-<h2>iReminder</h2>
-<a href="https://developer.apple.com/xcode/swiftui/" style="display: inline"> 
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="SwiftUI" title="SwiftUI" width="75" height="75"/></a>
+<table>
+  <tr>
+    <td><h2>iReminder</h2></td>
+    <td align="right">
+      <a href="https://developer.apple.com/xcode/swiftui/">
+        <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="SwiftUI" title="SwiftUI" width="50" height="50"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 https://github.com/user-attachments/assets/2fe9ba55-65ba-4d48-9c35-a3ac01cd2267
 
 ---
