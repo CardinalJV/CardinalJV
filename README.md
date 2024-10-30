@@ -49,7 +49,7 @@ By Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/**
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="50" height="50"/>
   </a>
 
-## Projects
+### Projects
 
 https://github.com/user-attachments/assets/2fe9ba55-65ba-4d48-9c35-a3ac01cd2267
 
