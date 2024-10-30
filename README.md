@@ -52,8 +52,8 @@ By Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/**
 <h1 align="center">Projects</h1>
 
 <div style="width: auto; display: flex; align-items: center">
-  <h3>iReminder</h3>
-  <a href="https://developer.apple.com/xcode/swiftui/"> 
+  <h3 style="border: 1px solid white">iReminder</h3>
+  <a href="https://developer.apple.com/xcode/swiftui/" style="border: 1px solid white"> 
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="SwiftUI" title="SwiftUI" width="50" height="50"/></a>
 </div>
 
