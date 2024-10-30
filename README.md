@@ -51,7 +51,7 @@ By Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/**
 
 <h1 align="center">Projects</h1>
 
-<h3>iReminder: SwiftUI / SwiftData</h3>
+<h3>iReminder: SwiftUI / SwiftData / WidgetKit</h3>
 
 https://github.com/user-attachments/assets/2fe9ba55-65ba-4d48-9c35-a3ac01cd2267
 
