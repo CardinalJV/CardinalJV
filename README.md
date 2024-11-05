@@ -57,13 +57,13 @@ https://github.com/user-attachments/assets/2fe9ba55-65ba-4d48-9c35-a3ac01cd2267
 
 ---
 
-<h3>MovEco: SwiftUI / MapKit</h3>
+<h3><a href="https://github.com/CardinalJV/MovEco">MovEco: SwiftUI / MapKit</a></h3>
 
 https://github.com/user-attachments/assets/e9784295-bd33-4d07-a2db-45368f5e0c87
 
 ---
 
-<h3>iPokedex: SwiftUI</h3>
+<h3><a href="https://github.com/CardinalJV/iPokedex">iPokedex: SwiftUI</a></h3>
 
 https://github.com/user-attachments/assets/1a2a1d36-c31c-400e-9fdb-0354abed53da
 
