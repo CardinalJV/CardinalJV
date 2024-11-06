@@ -28,26 +28,11 @@ By Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/**
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/core-ml-128x128_2x.png" alt="CoreML" title="CoreML" width="75" height="75"/></a>
 <a href="https://developer.apple.com/widgets/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/widgetkit-96x96_2x.png" alt="WidgetKit" title="WidgetKit" width="75" height="75"/></a>
-  
-
-## Development tools
-
-<a href="https://github.com">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="50" height="50"/></a>
-<a href="https://www.figma.com/fr-fr/">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="50" height="50"/></a>
-<a href="https://www.notion.so/fr-fr">
-  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion" width="50" height="50"/></a> 
-<a href="https://www.postman.com">
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="50" height="50"/></a>
 
 ## I.D.E
 
   <a href="https://developer.apple.com/xcode/"> 
     <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/xcode-12-96x96_2x.png" alt="SwiftUI" title="Xcode" width="60" height="60"/></a>
-  <a href="https://code.visualstudio.com">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="50" height="50"/>
-  </a>
 
 <h1 align="center">Projects</h1>
 
