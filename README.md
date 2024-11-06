@@ -31,8 +31,9 @@ By Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/**
 
 ## I.D.E
 
-  <a href="https://developer.apple.com/xcode/"> 
-    <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/xcode-12-96x96_2x.png" alt="SwiftUI" title="Xcode" width="60" height="60"/></a>
+<a href="https://developer.apple.com/xcode/"> 
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/xcode-12-96x96_2x.png" alt="SwiftUI" title="Xcode" width="75" height="75"/>
+</a>
 
 <h1 align="center">Projects</h1>
 
