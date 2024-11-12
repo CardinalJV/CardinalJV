@@ -34,7 +34,7 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/xcode-12-96x96_2x.png" alt="SwiftUI" title="Xcode" width="75" height="75"/>
 </a>
 
-### Projects
+## Projects
 
 <h3><a href="https://github.com/CardinalJV/iReminder">iReminder</a>: SwiftUI / SwiftData / WidgetKit</h3>
 
