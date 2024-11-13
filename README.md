@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jessy, a iOS Builder 
+# Welcome in my space, my name is Jessy, a passionate iOS Builder 
 
 I’m currently working on **Swift app**
 
