@@ -10,7 +10,7 @@ Reach me by Mail: **jessy.viranaiken@icloud.com**
   
 Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/**
 
-## My stack
+## Stack
 
 <a href="https://developer.apple.com/swift/"> 
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-96x96_2x.png" alt="Logo Swift" title="Swift" width="75" height="75"/></a>
