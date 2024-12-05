@@ -21,7 +21,7 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 <a href="https://developer.apple.com/xcode/swift-testing/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-testing-96x96_2x.png" alt="Logo Swift Testing" title="Swift Testing" width="75" height="75"/></a>
   <a href="https://developer.apple.com/xcode/swift-testing/">
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/create-ml-128x128_2x.png" alt="Logo Swift Testing" title="Swift Testing" width="75" height="75"/></a>
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/create-ml-96x96_2x.png" alt="Logo Swift Testing" title="Swift Testing" width="75" height="75"/></a>
 
 ## Software Development Kit
 
