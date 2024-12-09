@@ -33,6 +33,8 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/weatherkit-96x96_2x.png" alt="Logo WeatherKit" title="WeatherKit" width="75" height="75"/></a>
 <a href="https://developer.apple.com/icloud/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/cloudkit-96x96_2x.png" alt="Logo CloudKit" title="CloudKit" width="75" height="75"/></a>
+<a href="https://developer.apple.com/tipkit/">
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/tipkit-96x96_2x.png" alt="Logo TipKit" title="TipKit" width="75" height="75"/></a>
 
 ## I.D.E
 
