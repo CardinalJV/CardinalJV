@@ -44,19 +44,19 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 
 ## Projects
 
-<h3><a href="https://github.com/CardinalJV/iReminder">iReminder</a>: SwiftUI / SwiftData / WidgetKit</h3>
+<h3><a href="https://github.com/CardinalJV/iReminder">iReminder</a>: Swift / SwiftUI / SwiftData / WidgetKit</h3>
 
 https://github.com/user-attachments/assets/2fe9ba55-65ba-4d48-9c35-a3ac01cd2267
 
 ---
 
-<h3><a href="https://github.com/CardinalJV/MovEco">MovEco</a>: SwiftUI / MapKit</h3>
+<h3><a href="https://github.com/CardinalJV/MovEco">MovEco</a>: Swift / SwiftUI / MapKit</h3>
 
 https://github.com/user-attachments/assets/e9784295-bd33-4d07-a2db-45368f5e0c87
 
 ---
 
-<h3><a href="https://github.com/CardinalJV/iPokedex">Pokedex</a>: SwiftUI / SwiftData</h3>
+<h3><a href="https://github.com/CardinalJV/iPokedex">Pokedex</a>: Swift / SwiftUI / SwiftData</h3>
 
 https://github.com/user-attachments/assets/511b9fdd-3bf1-4b6b-8411-65d43ab7e59b
 
