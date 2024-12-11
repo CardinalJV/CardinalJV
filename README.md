@@ -44,7 +44,7 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 
 ## Projects
 
-<h3><a href="https://github.com/CardinalJV/iReminder">iReminder</a>: Swift / SwiftUI / SwiftData / WeatherKit / MapKit</h3>
+<h3><a href="https://github.com/CardinalJV/iReminder">iWeather</a>: Swift / SwiftUI / SwiftData / WeatherKit / MapKit</h3>
 
 https://github.com/user-attachments/assets/71e23dd8-ad38-4d6d-93cc-14a24363546e
 
