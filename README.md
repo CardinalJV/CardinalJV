@@ -50,6 +50,11 @@ https://github.com/user-attachments/assets/71e23dd8-ad38-4d6d-93cc-14a24363546e
 
 ---
 
+<h3><a href="https://github.com/CardinalJV/iCoreML">iWeather</a>: Swift / SwiftUI / CoreML</h3>
+
+
+---
+
 <h3><a href="https://github.com/CardinalJV/iReminder">iReminder</a>: Swift / SwiftUI / SwiftData / WidgetKit</h3>
 
 https://github.com/user-attachments/assets/2fe9ba55-65ba-4d48-9c35-a3ac01cd2267
