@@ -50,8 +50,9 @@ https://github.com/user-attachments/assets/71e23dd8-ad38-4d6d-93cc-14a24363546e
 
 ---
 
-<h3><a href="https://github.com/CardinalJV/iCoreML">iWeather</a>: Swift / SwiftUI / CoreML</h3>
+<h3><a href="https://github.com/CardinalJV/iCoreML">iCoreML</a>: Swift / SwiftUI / CoreML</h3>
 
+https://github.com/user-attachments/assets/20931b53-688a-445e-a121-336c37bbd737
 
 ---
 
