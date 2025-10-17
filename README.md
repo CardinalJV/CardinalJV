@@ -1,6 +1,6 @@
 # Hi ! I'm Jessy, a passionate iOS Builder 
 
-I’m currently studying at the Apple Developer Academy in Naples
+I’m currently studying at the **Apple Developer Academy in Naples**
 
 I’m currently learning **SwiftUI, SwiftData, Swift Testing and Apple SDKs**
 
