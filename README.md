@@ -1,4 +1,4 @@
-# Hi ! I'm Jessy, a passionate iOS Builder 
+# Hi ! I'm Jessy, an iOS Builder 
 
 I’m currently studying at the **Apple Developer Academy in Naples**
 
