@@ -4,7 +4,7 @@ I’m currently studying at the **Apple Developer Academy in Naples**
 
 I’m currently learning **SwiftUI, SwiftData, Swift Testing and Apple SDKs**
 
-Ask me about **swift, apple products, javascript, react and more**
+Ask me about **swift, apple products and more**
 
 Reach me by Mail: **jessy.viranaiken@icloud.com**
   
