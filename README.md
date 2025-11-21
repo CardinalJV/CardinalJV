@@ -45,7 +45,7 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 <a href="https://developer.apple.com/xcode/"> 
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/xcode-s-96x96_2x.png" alt="Logo Xcode" title="Xcode" width="75" height="75"/></a>
 <a href="https://developer.apple.com/swift-playground/"> 
-  <img src="https://github.com/CardinalJV/CardinalJV/blob/main/assets/logo-swift/swift-playground-96x96_2x.png" alt="Logo Swift Playgrounds" title="Swift Playgrounds" width="75" height="75"/></a>
+  <img src="https://github.com/CardinalJV/CardinalJV/blob/main/assets/logo-swift/swift-playground-96x96_2x.png" alt="Logo Swift Playground" title="Swift Playground" width="75" height="75"/></a>
 <a href="https://developer.apple.com/machine-learning/create-ml/"> 
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/create-ml-96x96_2x.png" alt="Logo Create ML" title="Create ML" width="75" height="75"/></a>
 <a href="https://developer.apple.com/icon-composer/"> 
