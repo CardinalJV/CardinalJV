@@ -1,10 +1,8 @@
 # Hi ! I'm Jessy, an iOS Builder 
 
-I’m currently studying at the **Apple Developer Academy in Naples**
+I’m currently a student at the **Apple Developer Academy** in Naples, where I’m learning **Swift**, **SwiftUI**, **SwiftData**, **Swift Testing**, and **Apple SDKs**. I’m deeply passionate about these domains and driven by curiosity and creativity. My goal is to leverage technology to make the world a better place, one project at a time.
 
-I’m currently learning **SwiftUI, SwiftData, Swift Testing and Apple SDKs**
-
-Ask me about **swift, apple products and more**
+Feel free to ask me about Swift, Apple technologies, and more!
 
 Reach me by Mail: **jessy.viranaiken@icloud.com**
   
