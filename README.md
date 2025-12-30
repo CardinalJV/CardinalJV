@@ -2,7 +2,7 @@
 
 I’m currently a student at the **Apple Developer Academy** in Naples, where I’m learning **Swift**, **SwiftUI**, **SwiftData**, **Swift Testing**, and **Apple SDKs**. I’m deeply passionate about these domains and driven by curiosity and creativity. My goal is to leverage technology to make the world a better place, one project at a time.
 
-Feel free to ask me about Swift, Apple technologies, and more!
+Feel free to ask me about Swift, Apple and more!
 
 Reach me by Mail: **jessy.viranaiken@icloud.com**
   
