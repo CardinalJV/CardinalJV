@@ -11,15 +11,15 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 ## Stack
 
 <a href="https://developer.apple.com/swift/"> 
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-96x96_2x.png" alt="Logo Swift" title="Swift" width="68" height="68"/></a>
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-96x96_2x.png" alt="Logo Swift" title="Swift" width="69" height="69"/></a>
 <a href="https://developer.apple.com/xcode/swiftui/"> 
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="Logo SwiftUI" title="SwiftUI" width="68" height="68"/></a>
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="Logo SwiftUI" title="SwiftUI" width="69" height="69"/></a>
 <a href="https://developer.apple.com/xcode/swiftdata/">
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftdata-96x96_2x.png" alt="Logo SwiftData" title="SwiftData" width="68" height="68"/></a>
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftdata-96x96_2x.png" alt="Logo SwiftData" title="SwiftData" width="69" height="69"/></a>
 <a href="https://developer.apple.com/xcode/swift-testing/">
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-testing-96x96_2x.png" alt="Logo Swift Testing" title="Swift Testing" width="68" height="68"/></a>
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-testing-96x96_2x.png" alt="Logo Swift Testing" title="Swift Testing" width="69" height="69"/></a>
 <a href="https://developer.apple.com/documentation/foundationmodels/">
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/foundationmodel-96x96_2x.png" alt="Logo Foundation Models" title="Foundation Models" width="68" height="68"/></a>
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/foundationmodel-96x96_2x.png" alt="Logo Foundation Models" title="Foundation Models" width="69" height="69"/></a>
 
 ## Software Development Kit
 
