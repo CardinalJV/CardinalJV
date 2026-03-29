@@ -1,6 +1,7 @@
 # Hi! I'm Jessy, an Apple Developer 
 
-I’m currently a student at the **Apple Developer Academy** in Naples, where i’m learning **Swift**, **SwiftUI**, **SwiftData**, **Swift Testing**, and **Apple SDKs**. I’m deeply passionate about these domains and driven by curiosity and creativity. My goal is to leverage technology to make the world a better place, one project at a time.
+I’m currently a student at the **Apple Developer Academy** in Naples, where i’m learning **Swift**, **SwiftUI**, **SwiftData**, **Swift Testing**, and **Apple SDKs**. I’m deeply passionate about these domains and driven by curiosity and creativity. My goal is to leverage technology to make the world a better place, one project at a time. 
+**On-device first!**
 
 Feel free to ask me about Swift, Apple and more!
 
