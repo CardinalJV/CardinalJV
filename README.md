@@ -22,7 +22,7 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 <a href="https://developer.apple.com/documentation/foundationmodels/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/foundationmodel-96x96_2x.png" alt="Logo Foundation Models" title="Foundation Models" width="68.5" height="68.5"/></a>
 
-## Software Development Kit
+## Software Development Kits
 
 <a href="https://developer.apple.com/weatherkit/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/weatherkit-96x96_2x.png" alt="Logo WeatherKit" title="WeatherKit" width="68.5" height="68.5"/></a>
