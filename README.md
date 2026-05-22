@@ -47,6 +47,8 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 
 ## Tools
 
+<a href="https://developer.apple.com/app-store/"> 
+  <img src="https://github.com/CardinalJV/CardinalJV/blob/main/assets/logo-swift/app-store-s-96x96_2x.png" alt="Logo App Store" title="App Store" width="68.5" height="68.5"/></a>
 <a href="https://developer.apple.com/xcode/"> 
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/xcode-s-96x96_2x.png" alt="Logo Xcode" title="Xcode" width="68.5" height="68.5"/></a>
 <a href="https://developer.apple.com/testflight/"> 
@@ -57,8 +59,6 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/icon-composer-96x96_2x.png" alt="Logo Icon Composer" title="Icon Composer" width="68.5" height="68.5"/></a>  
 <a href="https://developer.apple.com/swift-playground/"> 
   <img src="https://github.com/CardinalJV/CardinalJV/blob/main/assets/logo-swift/swift-playground-96x96_2x.png" alt="Logo Swift Playground" title="Swift Playground" width="68.5" height="68.5"/></a>
-<a href="https://developer.apple.com/app-store/"> 
-  <img src="https://github.com/CardinalJV/CardinalJV/blob/main/assets/logo-swift/app-store-s-96x96_2x.png" alt="Logo App Store" title="App Store" width="68.5" height="68.5"/></a>
 
 ## Projects
 
