@@ -33,7 +33,7 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 <a href="https://developer.apple.com/icloud/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/cloudkit-96x96_2x.png" alt="Logo CloudKit" title="CloudKit" width="68.5" height="68.5"/></a>
 <a href="https://developer.apple.com/machine-learning/core-ml/">
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/core-ml-128x128_2x.png" alt="Logo CoreML" title="CoreML" width="68.5" height="68.5"/></a>
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/core-ml-96x96_2x.png" alt="Logo CoreML" title="CoreML" width="68.5" height="68.5"/></a>
 <a href="https://developer.apple.com/health-fitness/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/healthkit-96x96_2x.png" alt="Logo HealthKit" title="HealthKit" width="68.5" height="68.5"/></a>
 <a href="https://developer.apple.com/documentation/photokit">
