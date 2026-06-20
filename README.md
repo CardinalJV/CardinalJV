@@ -60,7 +60,7 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 <a href="https://developer.apple.com/swift-playground/"> 
   <img src="https://github.com/CardinalJV/CardinalJV/blob/main/assets/logo-swift/swift-playground-96x96_2x.png" alt="Logo Swift Playground" title="Swift Playground" width="68.5" height="68.5"/></a>
 <a href="https://chatgpt.com/it-IT/codex/"> 
-  <img src="https://github.com/CardinalJV/CardinalJV/blob/main/assets/logo-swift/codex-color.svg" alt="Logo Codex" title="Codex" width="68.5" height="68.5"/>
+  <img src="https://github.com/CardinalJV/CardinalJV/blob/main/assets/logo-swift/codex-color.svg" alt="Logo Codex" title="Codex" width="65" height="65"/>
 </a>
 
 ## Projects
