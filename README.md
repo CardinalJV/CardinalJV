@@ -77,6 +77,12 @@ https://github.com/user-attachments/assets/20931b53-688a-445e-a121-336c37bbd737
 
 ---
 
+<h3><a href="https://github.com/CardinalJV/SignReader">iCoreML</a>: Swift / SwiftUI / CoreML</h3>
+
+https://github.com/user-attachments/assets/ea801a81-0f23-46bc-b9ac-06ab87e4cfc2
+
+---
+
 <h3><a href="https://github.com/CardinalJV/iReminder">iReminder</a>: Swift / SwiftUI / SwiftData / WidgetKit</h3>
 
 https://github.com/user-attachments/assets/2fe9ba55-65ba-4d48-9c35-a3ac01cd2267
