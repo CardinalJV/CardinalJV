@@ -63,7 +63,6 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
   <img src="https://github.com/CardinalJV/CardinalJV/blob/main/assets/logo-swift/swift-playground-96x96_2x.png" alt="Logo Swift Playground" title="Swift Playground" width="68.5" height="68.5"/></a>
 
 ## Projects
----
 
 Movix: Swift / SwiftUI / SwiftData
 
@@ -75,4 +74,9 @@ SignReader: Swift / SwiftUI / CoreML
 
 https://github.com/user-attachments/assets/96cf5e30-42bc-4a14-b252-ea4e5dd4b3b1
 
---
+---
+
+Queazy: Swift / SwiftUI / SwiftData / Foundation Models / PhotoKit
+
+
+
