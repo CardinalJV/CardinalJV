@@ -36,7 +36,7 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/core-ml-96x96_2x.png" alt="Logo CoreML" title="CoreML" width="68.5" height="68.5"/></a>
 <a href="https://developer.apple.com/health-fitness/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/healthkit-96x96_2x.png" alt="Logo HealthKit" title="HealthKit" width="68.5" height="68.5"/></a>
-<a href="https://developer.apple.com/documentation/photokit">
+<a href="https://github.com/CardinalJV/Queazy">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/photokit-96x96_2x.png" alt="Logo PhotoKit" title="PhotoKit" width="68.5" height="68.5"/></a>
 <a href="https://developer.apple.com/documentation/mapkit/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/mapkit-96x96_2x.png" alt="Logo MapKit" title="MapKit" width="68.5" height="68.5"/></a>
