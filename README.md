@@ -61,21 +61,3 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/icon-composer-96x96_2x.png" alt="Logo Icon Composer" title="Icon Composer" width="68.5" height="68.5"/></a>  
 <a href="https://developer.apple.com/swift-playground/"> 
   <img src="https://github.com/CardinalJV/CardinalJV/blob/main/assets/logo-swift/swift-playground-96x96_2x.png" alt="Logo Swift Playground" title="Swift Playground" width="68.5" height="68.5"/></a>
-
-## Projects
-
-<h3><a href="https://github.com/CardinalJV/iWeather">iWeather</a>: Swift / SwiftUI / SwiftData / WeatherKit / MapKit</h3>
-
-https://github.com/user-attachments/assets/71e23dd8-ad38-4d6d-93cc-14a24363546e
-
----
-
-<h3><a href="https://github.com/CardinalJV/SignReader">SignReader</a>: Swift / SwiftUI / CoreML</h3>
-
-https://github.com/user-attachments/assets/ea801a81-0f23-46bc-b9ac-06ab87e4cfc2
-
----
-
-<h3><a href="https://github.com/CardinalJV/iReminder">iReminder</a>: Swift / SwiftUI / SwiftData / WidgetKit</h3>
-
-https://github.com/user-attachments/assets/2fe9ba55-65ba-4d48-9c35-a3ac01cd2267
