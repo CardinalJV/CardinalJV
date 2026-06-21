@@ -40,9 +40,9 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/photokit-96x96_2x.png" alt="Logo PhotoKit" title="PhotoKit" width="68.5" height="68.5"/></a>
 <a href="https://developer.apple.com/documentation/mapkit/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/mapkit-96x96_2x.png" alt="Logo MapKit" title="MapKit" width="68.5" height="68.5"/></a>
-<a href="https://developer.apple.com/tipkit/">
+<a href="https://github.com/CardinalJV/ZikPop">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/tipkit-96x96_2x.png" alt="Logo TipKit" title="TipKit" width="68.5" height="68.5"/></a>
-<a href="https://developer.apple.com/musickit/">
+<a href="https://github.com/CardinalJV/ZikPop">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/musickit-96x96_2x.png" alt="Logo MusicKit" title="MusicKit" width="68.5" height="68.5"/></a>
 <a href="https://github.com/CardinalJV/Phisios"> 
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/spritekit-96x96_2x.png" alt="Logo SpriteKit" title="SpriteKit" width="68.5" height="68.5"/></a>
