@@ -69,7 +69,7 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
   <span>Swift / SwiftUI / SwiftData</span>
 </a>
 
-Movix: Swift / SwiftUI / SwiftData
+[Movix](https://github.com/CardinalJV/Movix)Swift / SwiftUI / SwiftData
 
 https://github.com/user-attachments/assets/c405144f-d3dc-4a46-aadb-69c15c5092ce
 
