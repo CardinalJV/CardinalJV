@@ -89,3 +89,10 @@ https://github.com/user-attachments/assets/3838f6a5-0fc2-45cc-9a7a-f86d3a01e2a2
 [iWeather](https://github.com/CardinalJV/iWeather): Swift / SwiftUI / SwiftData / WeatherKit / MapKit
 
 https://github.com/user-attachments/assets/71e23dd8-ad38-4d6d-93cc-14a24363546e
+
+---
+
+[iReminder](https://github.com/CardinalJV/iReminder): Swift / SwiftUI / SwiftData / WidgetKit
+
+https://github.com/user-attachments/assets/2fe9ba55-65ba-4d48-9c35-a3ac01cd2267
+
