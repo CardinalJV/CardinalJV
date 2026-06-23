@@ -59,7 +59,9 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 <a href="https://developer.apple.com/machine-learning/create-ml/"> 
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/create-ml-96x96_2x.png" alt="Logo Create ML" title="Create ML" width="68.5" height="68.5"/></a>
 <a href="https://developer.apple.com/icon-composer/"> 
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/icon-composer-96x96_2x.png" alt="Logo Icon Composer" title="Icon Composer" width="68.5" height="68.5"/></a>  
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/icon-composer-96x96_2x.png" alt="Logo Icon Composer" title="Icon Composer" width="68.5" height="68.5"/></a>
+<a href=""> 
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/instruments-96x96_2x.png" alt="Logo Instruments" title="Instruments" width="68.5" height="68.5"/></a>
 
 ## Projects
 
