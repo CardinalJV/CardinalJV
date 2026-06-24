@@ -71,6 +71,12 @@ https://github.com/user-attachments/assets/ca03654f-0161-4474-b6f7-fb63e7432688
 
 ---
 
+[ZikPop](https://github.com/CardinalJV/ZikPop): Swift / SwiftUI / MusicKit / PhotoKit
+
+https://github.com/user-attachments/assets/86c92b23-baf9-4907-9ae0-98ab0dc0c53b
+
+---
+
 [SignReader](https://github.com/CardinalJV/SignReader): Swift / SwiftUI / CoreML
 
 https://github.com/user-attachments/assets/96cf5e30-42bc-4a14-b252-ea4e5dd4b3b1
