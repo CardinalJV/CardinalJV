@@ -65,6 +65,12 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 
 ## Projects
 
+[SignReader](https://github.com/CardinalJV/SignReader): Swift / SwiftUI / CoreML
+
+https://github.com/user-attachments/assets/e2361149-924b-46bc-809d-b27069ac36b2
+
+---
+
 [Movix](https://github.com/CardinalJV/Movix): Swift / SwiftUI / SwiftData
 
 https://github.com/user-attachments/assets/ca03654f-0161-4474-b6f7-fb63e7432688
@@ -74,12 +80,6 @@ https://github.com/user-attachments/assets/ca03654f-0161-4474-b6f7-fb63e7432688
 [ZikPop](https://github.com/CardinalJV/ZikPop): Swift / SwiftUI / MusicKit / TipKit / PhotoKit
 
 https://github.com/user-attachments/assets/86c92b23-baf9-4907-9ae0-98ab0dc0c53b
-
----
-
-[SignReader](https://github.com/CardinalJV/SignReader): Swift / SwiftUI / CoreML
-
-https://github.com/user-attachments/assets/96cf5e30-42bc-4a14-b252-ea4e5dd4b3b1
 
 ---
 
