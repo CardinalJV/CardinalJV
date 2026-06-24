@@ -97,7 +97,7 @@ https://github.com/user-attachments/assets/4827e9cb-7e6d-4bf6-a757-e25108f2cbb4
 
 [iWeather](https://github.com/CardinalJV/iWeather): Swift / SwiftUI / SwiftData / WeatherKit / MapKit
 
-https://github.com/user-attachments/assets/71e23dd8-ad38-4d6d-93cc-14a24363546e
+https://github.com/user-attachments/assets/9fde58fa-3a47-43f4-aa29-9a81f641b8fb
 
 ---
 
