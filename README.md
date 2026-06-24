@@ -79,6 +79,8 @@ https://github.com/user-attachments/assets/96cf5e30-42bc-4a14-b252-ea4e5dd4b3b1
 
 [Queazy](https://github.com/CardinalJV/Queazy): Swift / SwiftUI / SwiftData / Foundation Models / PhotoKit
 
+https://github.com/user-attachments/assets/9bedd664-dd97-4661-b42e-a5a3577bc0a9
+
 ---
 
 [Phisios](https://github.com/CardinalJV/Phisios): Swift / SwiftUI / SpriteKit
