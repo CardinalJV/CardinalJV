@@ -22,8 +22,6 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-testing-96x96_2x.png" alt="Logo Swift Testing" title="Swift Testing" width="68.5" height="68.5"/></a>
 <a href="https://developer.apple.com/documentation/foundationmodels/">
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/foundationmodel-96x96_2x.png" alt="Logo Foundation Models" title="Foundation Models" width="68.5" height="68.5"/></a>
-<a href="https://developer.apple.com/metal/">
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/metal-96x96_2x.png" alt="Logo Metal" title="Metal" width="68.5" height="68.5"/></a>
 
 ## Software Development Kits
 
