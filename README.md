@@ -67,12 +67,6 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 
 ## Projects
 
-[SignReader](https://github.com/CardinalJV/SignReader): Swift / SwiftUI / CoreML
-
-https://github.com/user-attachments/assets/e2361149-924b-46bc-809d-b27069ac36b2
-
----
-
 [Phisios](https://github.com/CardinalJV/Phisios): Swift / SwiftUI / SpriteKit
 
 https://github.com/user-attachments/assets/4827e9cb-7e6d-4bf6-a757-e25108f2cbb4
