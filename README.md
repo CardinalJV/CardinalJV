@@ -94,12 +94,6 @@ https://github.com/user-attachments/assets/4827e9cb-7e6d-4bf6-a757-e25108f2cbb4
 
 ---
 
-[Movix](https://github.com/CardinalJV/Movix): Swift / SwiftUI / SwiftData
-
-https://github.com/user-attachments/assets/ca03654f-0161-4474-b6f7-fb63e7432688
-
----
-
 <div align="center">
   
 ### [ZikPop](https://github.com/CardinalJV/ZikPop)
@@ -170,6 +164,12 @@ Queazy is an AI-powered learning companion that transforms images and documents 
 </p>
 
 https://github.com/user-attachments/assets/9bedd664-dd97-4661-b42e-a5a3577bc0a9
+
+---
+
+[Movix](https://github.com/CardinalJV/Movix): Swift / SwiftUI / SwiftData
+
+https://github.com/user-attachments/assets/ca03654f-0161-4474-b6f7-fb63e7432688
 
 ---
 
