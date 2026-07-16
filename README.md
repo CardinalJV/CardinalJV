@@ -83,7 +83,7 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 <br>
 
 <p align="center">
-  <img src="Phisios-Icon.png" alt="Logo" width="137"><br>
+  <img src="https://github.com/CardinalJV/Phisios/blob/main/Phisios-Icon.png?raw=true" alt="Logo" width="137"><br>
   Sports game that shows physics behind sports
 </p>
 
