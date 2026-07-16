@@ -133,7 +133,31 @@ https://github.com/user-attachments/assets/86c92b23-baf9-4907-9ae0-98ab0dc0c53b
 
 ---
 
-[Queazy](https://github.com/CardinalJV/Queazy): Swift / SwiftUI / SwiftData / Foundation Models / PhotoKit
+<div align="center">
+  
+### [Queazy](https://github.com/CardinalJV/Queazy)
+
+<a href="https://developer.apple.com/swift/"> 
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-96x96_2x.png" alt="Logo Swift" title="Swift" width="68.5" height="68.5"/></a>
+<a href="https://developer.apple.com/xcode/swiftui/"> 
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="Logo SwiftUI" title="SwiftUI" width="68.5" height="68.5"/></a>
+<a href="https://developer.apple.com/xcode/swiftdata/">
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftdata-96x96_2x.png" alt="Logo SwiftData" title="SwiftData" width="68.5" height="68.5"/></a>
+<a href="https://developer.apple.com/xcode/swiftdata/">
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/foundationmodel-96x96_2x.png" alt="Logo FoundationModel" title="FoundationModel" width="68.5" height="68.5"/></a>
+<a href="https://developer.apple.com/documentation/photokit">
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/photokit-96x96_2x.png" alt="Logo PhotoKit" title="PhotoKit" width="68.5" height="68.5"/></a>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/CardinalJV/Queazy/raw/main/appIcon-Queazy.png" alt="Logo" width="137"><br>
+  
+Queazy is an AI-powered learning companion that transforms images and documents into interactive study material. Using Apple’s on-device intelligence, Queazy extracts text from photos, documents, and camera captures, then automatically generates flashcards and quizzes to help users learn more effectively.
+
+</p>
 
 https://github.com/user-attachments/assets/9bedd664-dd97-4661-b42e-a5a3577bc0a9
 
