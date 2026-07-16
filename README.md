@@ -67,7 +67,25 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
 
 ## Projects
 
-[Phisios](https://github.com/CardinalJV/Phisios): Swift / SwiftUI / SpriteKit
+<div align="center">
+  
+### [Phisios](https://github.com/CardinalJV/Phisios)
+
+<a href="https://developer.apple.com/swift/"> 
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-96x96_2x.png" alt="Logo Swift" title="Swift" width="68.5" height="68.5"/></a>
+<a href="https://developer.apple.com/xcode/swiftui/"> 
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="Logo SwiftUI" title="SwiftUI" width="68.5" height="68.5"/></a>
+<a href="https://developer.apple.com/documentation/spritekit?changes=lat_1"> 
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/spritekit-96x96_2x.png" alt="Logo SpriteKit" title="SpriteKit" width="68.5" height="68.5"/></a>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="Phisios-Icon.png" alt="Logo" width="137"><br>
+  Sports game that shows physics behind sports
+</p>
 
 https://github.com/user-attachments/assets/4827e9cb-7e6d-4bf6-a757-e25108f2cbb4
 
