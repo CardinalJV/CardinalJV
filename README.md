@@ -108,7 +108,8 @@ https://github.com/user-attachments/assets/86c92b23-baf9-4907-9ae0-98ab0dc0c53b
 </div>
 
 <p align="center">
-  <img src="https://github.com/CardinalJV/Queazy/raw/main/appIcon-Queazy.png" alt="Logo" width="137"><br>
+  
+  <a href="https://apps.apple.com/us/app/queazy/id6762206512"><img src="https://github.com/CardinalJV/Queazy/raw/main/appIcon-Queazy.png" alt="Logo" width="137"></a>
   
 Queazy is an AI-powered learning companion that transforms images and documents into interactive study material. Using Apple’s on-device intelligence, Queazy extracts text from photos, documents, and camera captures, then automatically generates flashcards and quizzes to help users learn more effectively.
 
