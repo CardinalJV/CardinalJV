@@ -105,23 +105,7 @@ https://github.com/user-attachments/assets/86c92b23-baf9-4907-9ae0-98ab0dc0c53b
   
 ### [Queazy](https://github.com/CardinalJV/Queazy)
 
-<a href="https://developer.apple.com/swift/"> 
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swift-96x96_2x.png" alt="Logo Swift" title="Swift" width="68.5" height="68.5"/></a>
-<a href="https://developer.apple.com/xcode/swiftui/"> 
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="Logo SwiftUI" title="SwiftUI" width="68.5" height="68.5"/></a>
-<a href="https://developer.apple.com/xcode/swiftdata/">
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftdata-96x96_2x.png" alt="Logo SwiftData" title="SwiftData" width="68.5" height="68.5"/></a>
-<a href="https://developer.apple.com/xcode/swiftdata/">
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/foundationmodel-96x96_2x.png" alt="Logo FoundationModel" title="FoundationModel" width="68.5" height="68.5"/></a>
-<a href="https://developer.apple.com/documentation/photokit">
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/photokit-96x96_2x.png" alt="Logo PhotoKit" title="PhotoKit" width="68.5" height="68.5"/></a>
-  <br>
-<a href="https://apps.apple.com/us/app/queazy/id6762206512">
-  <img src="https://github.com/CardinalJV/CardinalJV/blob/main/assets/logo-swift/app-store-s-96x96_2x.png" alt="Logo App Store" title="App Store" width="68.5" height="68.5"/></a>
-
 </div>
-
-<br>
 
 <p align="center">
   <img src="https://github.com/CardinalJV/Queazy/raw/main/appIcon-Queazy.png" alt="Logo" width="137"><br>
