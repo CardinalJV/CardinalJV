@@ -88,8 +88,6 @@ https://github.com/user-attachments/assets/4827e9cb-7e6d-4bf6-a757-e25108f2cbb4
 
 </div>
 
-<br>
-
 <p align="center">
   <img src="https://github.com/CardinalJV/ZikPop/raw/main/ZikPop-Icon.png" alt="Logo" width="137"><br>
   
