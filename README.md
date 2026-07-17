@@ -86,9 +86,6 @@ https://github.com/user-attachments/assets/4827e9cb-7e6d-4bf6-a757-e25108f2cbb4
   
 ### [ZikPop](https://github.com/CardinalJV/ZikPop)
 
-<a href="https://testflight.apple.com/join/6WnPUyfR">
-<img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/testflight-s-96x96_2x.png" alt="Logo TestFlight" title="TestFlight" width="68.5" height="68.5"/></a>
-
 </div>
 
 <br>
