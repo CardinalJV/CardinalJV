@@ -1,8 +1,6 @@
 # Hi! I'm Jessy, Swift Developer 
 
-I’m currently a student at the **Apple Developer Academy** in Naples, where i’m learning **Swift**, **SwiftUI**, **SwiftData**, **Swift Testing** and **Apple SDKs**. 
-I’m also deeply passionate about machine learning and artificial intelligence. Driven by curiosity and creativity my goal is to leverage technology to make the world a better place, one project at a time, 
-**On-device first!**
+I am an alumnus of the Apple Developer Academy in Naples, where I built a strong command of SwiftUI, SwiftData and Swift Testing, and learned to craft polished, reliable apps with the wider **Apple SDKs**. I am now deepening my skills in data analytics, fueled by a deep passion for machine learning and artificial intelligence. Driven by curiosity and creativity, I strive to turn ideas into technology that makes the world a better place, one project at a time. **On-device first!**
 
 Feel free to ask me about Swift, Apple and more!
 
