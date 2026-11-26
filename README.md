@@ -77,7 +77,7 @@ Follow me on Linkedin: **https://www.linkedin.com/in/jessy-viranaiken-72351623b/
   
   <p align="center">
     <a href="https://apps.apple.com/fr/app/phisios/id6774389571?l=en-GB">
-      <img src="https://github.com/CardinalJV/Phisios/blob/main/Phisios-Icon.png?raw=true" alt="Logo" width="137">
+      <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/black.png" alt="AppStore Badge">
     </a>
   </p>
 
